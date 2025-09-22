@@ -11,6 +11,11 @@ A comprehensive Python-based control system for SIP series gimbal cameras with o
 
 ### Python Dependencies
 ```bash
+pip install -r requirements.txt
+```
+
+Or install manually:
+```bash
 pip install opencv-python numpy
 ```
 
