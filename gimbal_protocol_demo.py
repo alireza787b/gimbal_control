@@ -42,7 +42,7 @@ from dataclasses import dataclass
 # ========================================================================
 
 GIMBAL_CONFIG = {
-    'camera_ip': '192.168.144.108',    # Replace with your gimbal IP
+    'camera_ip': '192.168.0.108',    # Replace with your gimbal IP
     'control_port': 9003,              # Gimbal control port (standard)
     'listen_port': 9004                # Our listening port (standard)
 }
